@@ -43,8 +43,22 @@
 }
 
 .hero__title {
-  @apply 1xl:text-[48px] sm:text-[40px] text-[32px] font-extrabold;
+  font-size: 48px; /* Set the font size for 1xl breakpoint */
 }
+
+@media (min-width: 640px) {
+  .hero__title {
+    font-size: 40px; /* Set the font size for sm breakpoint */
+  }
+}
+
+/* Default font size */
+@media (max-width: 639px) {
+  .hero__title {
+    font-size: 32px;
+  }
+}
+
 
 
 .hero__subtitle {
