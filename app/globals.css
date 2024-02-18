@@ -42,21 +42,26 @@
   @apply flex xl:flex-row flex-col gap-5 relative z-0 max-w-[1440px] mx-auto;
 }
 
-.hero__title {
-  font-size: 28px; /* Set the font size for 1xl breakpoint */
+/* .hero__title {
+  font-size: 28px; 
 }
 
 @media (min-width: 640px) {
   .hero__title {
-    font-size: 40px; /* Set the font size for sm breakpoint */
+    font-size: 40px; 
   }
 }
 
-/* Default font size */
+
 @media (max-width: 639px) {
   .hero__title {
     font-size: 32px;
   }
+}
+ */
+
+.hero__title {
+  @apply 1xl:text-[32px] sm:text-[28px] text-[30px] font-extrabold;
 }
 
 
