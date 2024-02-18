@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="">
+      <img src="https://media.licdn.com/dms/image/D4D22AQGmqHFOtjrpjw/feedshare-shrink_2048_1536/0/1708278879423?e=1710979200&v=beta&t=7x-YhU58w5_aRKx2fZOqCDs3fDXf1May1Z31m7BDtx8">
     </a>
   <br />
 
