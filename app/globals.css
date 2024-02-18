@@ -43,7 +43,7 @@
 }
 
 .hero__title {
-  font-size: 48px; /* Set the font size for 1xl breakpoint */
+  font-size: 28px; /* Set the font size for 1xl breakpoint */
 }
 
 @media (min-width: 640px) {
