@@ -43,8 +43,9 @@
 }
 
 .hero__title {
-  @apply 1xl:text-[72px] sm:text-[64px] text-[50px] font-extrabold;
+  @apply 1xl:text-[48px] sm:text-[40px] text-[32px] font-extrabold;
 }
+
 
 .hero__subtitle {
   @apply text-[27px] text-black-100 font-light mt-5;
