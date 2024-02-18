@@ -42,7 +42,7 @@
   @apply flex xl:flex-row flex-col gap-5 relative z-0 max-w-[1440px] mx-auto;
 }
 .hero__title {
-  @apply 2xl:text-[40px] sm:text-[60px] text-[46px] font-extrabold;
+  @apply 2xl:text-[45px] sm:text-[40px] text-[30px] font-extrabold;
 }
 
 .hero__subtitle {
