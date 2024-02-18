@@ -17,15 +17,15 @@ const Hero = () => {
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
         <h1 className="hero__title">
-        იქირავეთ ავტომობილები სწრაფად და მარტივად!
+        იქირავე ავტომობილი სწრაფად და მარტივად!
         </h1>
 
         <p className="hero__subtitle">
-        გაიმარტივეთ მანქანის დაქირავება ჩვენი იოლი დაჯავშნის პროცესით.
+        გაიმარტივე მანქანის დაქირავება ჩვენი იოლი დაჯავშნის პროცესით.
         </p>
 
         <CustomButton
-          title="აღმოაჩინე ავტომობილები"
+          title="აღმოაჩინე მანქანები"
           containerStyles="bg-primary-blue text-white rounded-full mt-10"
           handleClick={handleScroll}
         />
