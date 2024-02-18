@@ -1,8 +1,9 @@
 <div align="center">
   <br />
       <img src="https://media.licdn.com/dms/image/D4D22AQGmqHFOtjrpjw/feedshare-shrink_2048_1536/0/1708278879423?e=1710979200&v=beta&t=7x-YhU58w5_aRKx2fZOqCDs3fDXf1May1Z31m7BDtx8">
-    </a>
   <br />
+  <br />
+  
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
